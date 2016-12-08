@@ -1,4 +1,4 @@
-# token_passing
+# TokenPassing
 This repository contains the implementation of a solution for accessing a critic session using the Token Passing paradigm. 
 
 In order to get this program up and running, a few setups must be made.
